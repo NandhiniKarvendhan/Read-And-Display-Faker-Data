@@ -2,6 +2,8 @@
 
 It displays data on the browser with Bootstrap cards using faker.
 
+## [Demo](https://nandhinikarvendhan.github.io/Read-And-Display-Faker-Data/public/index.html)
+
 ## License
 
 MIT License
